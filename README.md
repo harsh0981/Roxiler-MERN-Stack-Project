@@ -38,7 +38,7 @@ Third-Party API: https://s3.amazonaws.com/roxiler.com/product_transaction.json
 # 1. Initialize Database
 Endpoint: GET /api/seed
 Description: Fetches data from a third-party API and seeds the database.
-# List Transactions
+# 2.List Transactions
 Endpoint: GET /api/transactions
 Query Parameters:
 month (required): Month name (e.g., March).
