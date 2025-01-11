@@ -1,21 +1,20 @@
 # Roxiler-MERN-Stack-Project
-**Transaction Management System**
+# Transaction Management System
 
 A web application for managing product transactions. This project includes APIs for database initialization, transaction statistics, and visualization (bar chart and pie chart) along with a responsive frontend for data display and interaction.
 
-**Features**
-
+# Features
 Fetch and initialize database with third-party JSON data.
 
 List transactions with search and pagination.
 
-Display statistics for selected months, including:
+**Display statistics for selected months, including:**
 
 Total sales amount.
 
 Number of sold and unsold items.
 
-**Visualize transaction data using:**
+# Visualize transaction data using:
 
 Bar charts (price range vs. item count).
 
@@ -24,7 +23,7 @@ Pie charts (category vs. item count).
 Responsive UI for data exploration and interaction.
 
 
-**Tech Stack**
+# Tech Stack
 
 Backend: Node.js, Express.js, MongoDB
 
